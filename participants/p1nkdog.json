@@ -1,4 +1,38 @@
 {
   "github_id": 70431504,
-  "github_login": "P1nkDog"
+  "github_login": "P1nkDog",
+  "schema_version": 1,
+  "level": 1,
+  "experience": 0,
+  "contributions": [],
+  "promotions": [
+    {
+      "id": "registration-78",
+      "from": 0,
+      "to": 1,
+      "policy": {
+        "id": "2026.v2",
+        "sha": "67501ff31a14a5510d1632013f187e9374143b33"
+      },
+      "proof": {
+        "source": {
+          "kind": "registration",
+          "pr": 78
+        },
+        "actor": 70431504,
+        "at": "2026-10-27T05:13:05Z",
+        "digest": "9c90f6baaf16e4b30636d54447157c65fc2694f398cb2b73a5381392da3a8265",
+        "details": "{\"registration_pr\":\"https://github.com/processmission-intern/mission-forge/pull/78\",\"merge_commit\":\"de3fb0cfc4c3a36959c8a8cc5ac22a087f5d8f01\"}"
+      },
+      "reason": "Identity registration PR merged.",
+      "evidence": [],
+      "review_pr": null
+    }
+  ],
+  "adjustments": [],
+  "last_event": {
+    "kind": "registration",
+    "pr": 78
+  },
+  "updated_at": "2026-10-27T05:13:05Z"
 }
